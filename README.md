@@ -1,7 +1,7 @@
-## This is FullStack Nextjs project.
+# This is FullStack Nextjs project.
 PromptPal is an open-source tool to create and share creative AI prompts. 
 
-# View Project : https://promptpal-project-nyk79e276-cjpanda.vercel.app/
+## View Project : https://promptpal-project-nyk79e276-cjpanda.vercel.app/
 ## Features Include: User Login with GoogleAuth, User Profile, Create Save and Delete Prompts, NextAuth for Authentication. 
 ## This Project was developed with NextJS, TailwindCSS, MongoDB, GoogleAuth, NextAuth
 
